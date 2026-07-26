@@ -1,27 +1,45 @@
 # Netflix Movies & TV Shows Analysis
+## Dashboard Screenshot
+
+![Netflix Dashboard](netflix_dashboard.png)
 
 ## Project Overview
-This project analyses the Netflix Movies & TV Shows dataset using Python.
 
-## Tools Used
+This project analyzes Netflix movies and TV shows data.
+
+The aim of this project is to find useful insights about:
+- Movies and TV Shows
+- Popular genres
+- Countries
+- Ratings
+- Release years
+- Content duration
+
+## Technologies Used
+
 - Python
-- Google Colab
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
-- GitHub
+- Streamlit
+
+## Features
+
+- Data cleaning
+- Exploratory Data Analysis
+- Interactive dashboard
+- Charts and visualizations
+- Filtering options
 
 ## Dataset
-- netflix_titles.csv
 
-## Analysis Performed
-- Movies vs TV Shows
-- Top 10 Countries
-- Ratings Analysis
-- Release Year Analysis
-- Genres Analysis
-- Duration Analysis
-- Year Added Analysis
+Dataset used:
+Netflix Movies and TV Shows Dataset
 
-## Conclusion
-This project helps understand Netflix content using data visualisation and Python.
+## Live Demo
+
+Add your Streamlit website link here:
+
+https://your-project-name.streamlit.app
+
