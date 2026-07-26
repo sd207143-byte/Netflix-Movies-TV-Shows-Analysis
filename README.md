@@ -1,7 +1,7 @@
 # Netflix Movies & TV Shows Analysis
 ## Dashboard Screenshot
 
-![Netflix Dashboard](netflix_dashboard.png)
+![Netflix Dashboard](netflix_dashboard.jpeg)
 
 ## Project Overview
 
